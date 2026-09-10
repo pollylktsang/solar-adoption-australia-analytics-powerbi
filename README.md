@@ -18,18 +18,24 @@ I also developed an opportunity framework to identify postcodes where solar adop
 What a valuable experience in combining data engineering, analytics, machine learning and visual storytelling into one decision-focused solution with with actionable recommendations.
 
 Tools: Power BI | DAX | Power Query | Python | Pandas | Scikit-learn
+------------------------------------------------------------------------------------------------------------------
 
-</> Markdown
+### Executive Summary
 ![Executive Summary](images/01_executive_summary.png)
 
+### Australia
 ![Australia](images/02_australia.png)
 
+### Melbourne
 ![Melbourne](images/03_melbourne.png)
 
+### Drivers & Machine Learning
 ![Drivers &ML](images/04_drivers_ml.png)
 
 ![Drivers &ML-Demo-drivers-tree](images/07_demo_drivers_tree.png)
 
+### ML Deep Dive
 ![ML Deep Dive](images/05_ml_deep_dive.png)
 
+### Recommendations
 ![Recommendations](images/06_recommendations.png)
