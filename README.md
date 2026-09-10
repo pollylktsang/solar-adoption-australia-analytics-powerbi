@@ -28,7 +28,7 @@ Tools: Power BI | DAX | Power Query | Python | Pandas | Scikit-learn
 
 ![Drivers &ML](images/04_drivers_ml.png)
 
-![Drivers &ML- Demo-driver-tree](images/04_demo_drivers_tree.png)
+![Drivers &ML-Demo-drivers-tree](images/07_demo_drivers_tree.png)
 
 ![ML Deep Dive](images/05_ml_deep_dive.png)
 
