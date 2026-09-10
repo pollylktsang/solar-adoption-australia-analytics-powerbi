@@ -18,3 +18,11 @@ I also developed an opportunity framework to identify postcodes where solar adop
 What a valuable experience in combining data engineering, analytics, machine learning and visual storytelling into one decision-focused solution with with actionable recommendations.
 
 Tools: Power BI | DAX | Power Query | Python | Pandas | Scikit-learn
+
+</> Markdown
+![Executive Summary](images/AU Solar Adoption_Executive Summary.png)
+![Australia](images/AU Solar Adoption_Australia.png)
+![Melbourne](images/AU Solar Adoption_Melbourne.png)
+![Drivers &ML](images/AU Solar Adoption_Drivers & ML.png)
+![ML Deep Dive](images/AU Solar Adoption_ML Deep Dive.png)
+![Recommendations](images/AU Solar Adoption_Recommendations.png)
