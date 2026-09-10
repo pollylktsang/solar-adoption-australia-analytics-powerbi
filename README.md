@@ -20,23 +20,16 @@ What a valuable experience in combining data engineering, analytics, machine lea
 Tools: Power BI | DAX | Power Query | Python | Pandas | Scikit-learn
 
 </> Markdown
-![Executive Summary]
-(images/01_executive_summary.png)
+![Executive Summary](images/01_executive_summary.png)
 
-![Australia]
-(images/02_australia.png)
+![Australia](images/02_australia.png)
 
-![Melbourne]
-(images/03_melbourne.png)
+![Melbourne](images/03_melbourne.png)
 
-![Drivers &ML]
-(images/04_drivers_ml.png)
+![Drivers &ML](images/04_drivers_ml.png)
 
-![Drivers &ML- Demo-driver-tree]
-(images/04_demo_drivers_tree.png)
+![Drivers &ML- Demo-driver-tree](images/04_demo_drivers_tree.png)
 
-![ML Deep Dive]
-(images/05_ml_deep_dive.png)
+![ML Deep Dive](images/05_ml_deep_dive.png)
 
-![Recommendations]
-(images/06_recommendations.png)
+![Recommendations](images/06_recommendations.png)
